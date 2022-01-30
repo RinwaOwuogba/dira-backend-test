@@ -1,7 +1,3 @@
-# Awesome Project Build with TypeORM
+# Backend test
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+Backend engineer test Dira Labs
